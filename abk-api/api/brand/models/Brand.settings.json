@@ -1,0 +1,38 @@
+{
+  "connection": "default",
+  "collectionName": "brand",
+  "info": {
+    "name": "brand",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "required": true,
+      "type": "string",
+      "unique": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "banner": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "thumb": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "code": {
+      "unique": true,
+      "type": "string"
+    }
+  }
+}

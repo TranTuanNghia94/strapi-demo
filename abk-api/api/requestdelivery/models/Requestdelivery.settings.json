@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "Request Delivery",
+  "info": {
+    "name": "requestdelivery",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "url": {
+      "required": true,
+      "type": "string"
+    },
+    "images": {
+      "collection": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "detail": {
+      "type": "text"
+    },
+    "user": {
+      "model": "user",
+      "plugin": "users-permissions"
+    }
+  }
+}

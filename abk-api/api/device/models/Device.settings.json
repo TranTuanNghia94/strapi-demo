@@ -1,0 +1,32 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "device",
+    "description": "Device that the user has logged in"
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "os": {
+      "type": "string"
+    },
+    "os_version": {
+      "type": "string"
+    },
+    "app_version": {
+      "type": "string"
+    },
+    "firebase_token": {
+      "type": "string"
+    },
+    "user": {
+      "model": "user",
+      "plugin": "users-permissions"
+    }
+  }
+}

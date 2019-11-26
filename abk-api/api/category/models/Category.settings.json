@@ -1,0 +1,44 @@
+{
+  "connection": "default",
+  "collectionName": "category",
+  "info": {
+    "name": "category",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "banner": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "thumb": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "code": {
+      "unique": true,
+      "type": "string"
+    },
+    "parent": {
+      "model": "category",
+      "via": "categories"
+    },
+    "categories": {
+      "collection": "category",
+      "via": "parent"
+    }
+  }
+}

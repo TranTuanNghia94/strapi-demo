@@ -1,0 +1,66 @@
+{
+  "connection": "default",
+  "collectionName": "sku",
+  "info": {
+    "name": "sku",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "code": {
+      "unique": true,
+      "type": "string"
+    },
+    "price": {
+      "type": "float",
+      "required": true
+    },
+    "productattributes": {
+      "collection": "productattributes",
+      "via": "skus",
+      "dominant": true
+    },
+    "currency": {
+      "model": "currency"
+    },
+    "airbasket_fee": {
+      "type": "float",
+      "default": "0"
+    },
+    "original_price": {
+      "type": "float",
+      "default": "0",
+      "required": true
+    },
+    "airbasket_price": {
+      "type": "float",
+      "required": true,
+      "default": "0"
+    },
+    "reward": {
+      "type": "float",
+      "required": true,
+      "default": "0"
+    },
+    "description": {
+      "type": "text"
+    },
+    "photos": {
+      "collection": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "product": {
+      "model": "product",
+      "via": "skus"
+    }
+  }
+}

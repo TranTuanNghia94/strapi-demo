@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/airports",
+      "handler": "Airport.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/airports/count",
+      "handler": "Airport.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/airports/:_id",
+      "handler": "Airport.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/airports",
+      "handler": "Airport.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/airports/:_id",
+      "handler": "Airport.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/airports/:_id",
+      "handler": "Airport.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

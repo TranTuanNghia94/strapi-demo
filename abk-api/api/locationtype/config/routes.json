@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/locationtypes",
+      "handler": "Locationtype.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/locationtypes/count",
+      "handler": "Locationtype.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/locationtypes/:_id",
+      "handler": "Locationtype.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/locationtypes",
+      "handler": "Locationtype.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/locationtypes/:_id",
+      "handler": "Locationtype.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/locationtypes/:_id",
+      "handler": "Locationtype.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/emailservices",
+      "handler": "Emailservice.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/emailservices/count",
+      "handler": "Emailservice.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/emailservices/:_id",
+      "handler": "Emailservice.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/emailservices",
+      "handler": "Emailservice.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/emailservices/:_id",
+      "handler": "Emailservice.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/emailservices/:_id",
+      "handler": "Emailservice.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

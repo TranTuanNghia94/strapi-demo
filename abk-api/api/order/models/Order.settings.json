@@ -1,0 +1,57 @@
+{
+  "connection": "default",
+  "collectionName": "order",
+  "info": {
+    "name": "order",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "code": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "user": {
+      "model": "user",
+      "plugin": "users-permissions"
+    },
+    "modified_by": {
+      "type": "string"
+    },
+    "delivery_date": {
+      "type": "date"
+    },
+    "delivery_address": {
+      "type": "text"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "recipient_name": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "fee": {
+      "type": "float",
+      "default": "0"
+    },
+    "orderitems": {
+      "collection": "orderitem",
+      "via": "order"
+    },
+    "extra_fee": {
+      "type": "json"
+    }
+  }
+}

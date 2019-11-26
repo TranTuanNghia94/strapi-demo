@@ -1,0 +1,46 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "version",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "required": true,
+      "type": "string"
+    },
+    "type": {
+      "default": "airport",
+      "enum": [
+        "airport",
+        "bank",
+        "country",
+        "iosApp",
+        "androidApp"
+      ],
+      "required": true,
+      "unique": true,
+      "type": "enumeration"
+    },
+    "version": {
+      "required": true,
+      "type": "string"
+    },
+    "build": {
+      "type": "integer",
+      "required": true,
+      "default": "1"
+    },
+    "modified_by": {
+      "model": "user",
+      "plugin": "users-permissions"
+    },
+    "modified_date": {
+      "type": "date"
+    }
+  }
+}

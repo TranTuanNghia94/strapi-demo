@@ -1,0 +1,46 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "emailservice",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "storeEmail": {
+      "required": true,
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "biginteger",
+      "required": true
+    },
+    "status": {
+      "required": true,
+      "enum": [
+        "pending",
+        "sending",
+        "sent",
+        "canceled"
+      ],
+      "default": "pending",
+      "type": "enumeration"
+    },
+    "priority": {
+      "type": "integer",
+      "default": "0",
+      "required": true
+    },
+    "params": {
+      "type": "json"
+    },
+    "users": {
+      "collection": "user",
+      "dominant": true,
+      "via": "emailservices",
+      "plugin": "users-permissions"
+    }
+  }
+}

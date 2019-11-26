@@ -1,0 +1,33 @@
+{
+  "connection": "default",
+  "collectionName": "airport",
+  "info": {
+    "name": "airport",
+    "description": "List of Airports"
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "city": {
+      "required": true,
+      "type": "string"
+    },
+    "code": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "location": {
+      "model": "location"
+    }
+  }
+}

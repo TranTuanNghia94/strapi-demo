@@ -1,0 +1,34 @@
+{
+  "connection": "default",
+  "collectionName": "Product Attributes",
+  "info": {
+    "name": "productattributes",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "type": {
+      "enum": [
+        "color",
+        "size",
+        ""
+      ],
+      "type": "enumeration",
+      "required": true,
+      "default": ""
+    },
+    "price": {
+      "type": "biginteger",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "skus": {
+      "collection": "sku",
+      "via": "productattributes"
+    }
+  }
+}

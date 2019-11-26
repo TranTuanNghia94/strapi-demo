@@ -1,0 +1,53 @@
+{
+  "connection": "default",
+  "collectionName": "Order Item",
+  "info": {
+    "name": "orderitem",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "price": {
+      "type": "biginteger"
+    },
+    "discount": {
+      "type": "biginteger"
+    },
+    "quantity": {
+      "type": "integer",
+      "default": "1",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "remaining": {
+      "type": "date"
+    },
+    "delivery_date": {
+      "type": "date"
+    },
+    "delivery_location": {
+      "model": "location"
+    },
+    "where_to_buy_location": {
+      "model": "location"
+    },
+    "tasks": {
+      "collection": "task",
+      "via": "orderitem"
+    },
+    "sku": {
+      "model": "sku"
+    },
+    "order": {
+      "model": "order",
+      "via": "orderitems"
+    }
+  }
+}

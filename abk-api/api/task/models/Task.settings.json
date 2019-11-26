@@ -1,0 +1,77 @@
+{
+  "connection": "default",
+  "collectionName": "task",
+  "info": {
+    "name": "task",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "required": true,
+      "type": "string"
+    },
+    "reward": {
+      "type": "biginteger",
+      "required": true
+    },
+    "remaining": {
+      "required": true,
+      "type": "date"
+    },
+    "status": {
+      "default": "pending",
+      "required": true,
+      "enum": [
+        "pending",
+        "decline",
+        "accepted",
+        "picked",
+        "done"
+      ],
+      "type": "enumeration"
+    },
+    "description": {
+      "type": "text"
+    },
+    "modified_by": {
+      "type": "string"
+    },
+    "price": {
+      "type": "biginteger",
+      "required": true
+    },
+    "product_photos": {
+      "collection": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "quantity": {
+      "type": "integer",
+      "required": true,
+      "default": "1"
+    },
+    "delivery_date": {
+      "type": "date"
+    },
+    "delivery_location": {
+      "model": "location"
+    },
+    "status_history": {
+      "type": "json"
+    },
+    "trip": {
+      "model": "trip",
+      "via": "tasks"
+    },
+    "orderitem": {
+      "model": "orderitem",
+      "via": "tasks"
+    }
+  }
+}

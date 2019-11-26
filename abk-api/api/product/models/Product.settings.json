@@ -1,0 +1,107 @@
+{
+  "connection": "default",
+  "collectionName": "product",
+  "info": {
+    "name": "product",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "required": true,
+      "type": "string"
+    },
+    "vendor_code": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "detail": {
+      "type": "text"
+    },
+    "producttype": {
+      "model": "producttype"
+    },
+    "brand": {
+      "model": "brand"
+    },
+    "category": {
+      "model": "category"
+    },
+    "public": {
+      "type": "boolean"
+    },
+    "code": {
+      "unique": true,
+      "type": "string",
+      "required": true
+    },
+    "gender": {
+      "default": "unisex",
+      "enum": [
+        "male",
+        "female",
+        "unisex"
+      ],
+      "type": "enumeration"
+    },
+    "packing": {
+      "default": "item",
+      "enum": [
+        "item",
+        "set",
+        "kg"
+      ],
+      "type": "enumeration"
+    },
+    "characteristics": {
+      "type": "json"
+    },
+    "url_encode": {
+      "unique": true,
+      "type": "string",
+      "required": true
+    },
+    "volume": {
+      "type": "string"
+    },
+    "category_code": {
+      "type": "string"
+    },
+    "brand_code": {
+      "type": "string"
+    },
+    "sku": {
+      "unique": true,
+      "model": "sku"
+    },
+    "popular": {
+      "type": "integer",
+      "default": "0"
+    },
+    "categories_path": {
+      "type": "string"
+    },
+    "related_products": {
+      "collection": "product",
+      "via": "product"
+    },
+    "product": {
+      "model": "product",
+      "via": "related_products"
+    },
+    "skus": {
+      "collection": "sku",
+      "via": "product"
+    },
+    "vendor": {
+      "model": "vendor"
+    }
+  }
+}

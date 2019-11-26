@@ -1,0 +1,49 @@
+{
+  "connection": "default",
+  "collectionName": "location",
+  "info": {
+    "name": "location",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "title": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "address": {
+      "required": true,
+      "type": "text"
+    },
+    "latlng": {
+      "required": true,
+      "type": "string"
+    },
+    "country": {
+      "model": "country"
+    },
+    "state": {
+      "type": "string"
+    },
+    "operation_time": {
+      "required": true,
+      "type": "date"
+    },
+    "description": {
+      "type": "text"
+    },
+    "type": {
+      "model": "locationtype"
+    },
+    "code": {
+      "required": true,
+      "type": "string"
+    }
+  }
+}

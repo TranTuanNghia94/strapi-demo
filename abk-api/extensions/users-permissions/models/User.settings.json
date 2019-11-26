@@ -1,0 +1,102 @@
+{
+  "connection": "default",
+  "collectionName": "users-permissions_user",
+  "info": {
+    "name": "user",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "username": {
+      "type": "string",
+      "minLength": 3,
+      "unique": true,
+      "configurable": false,
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "minLength": 6,
+      "configurable": false,
+      "required": true
+    },
+    "provider": {
+      "type": "string",
+      "configurable": false
+    },
+    "password": {
+      "type": "password",
+      "minLength": 6,
+      "configurable": false,
+      "private": true
+    },
+    "resetPasswordToken": {
+      "type": "string",
+      "configurable": false,
+      "private": true
+    },
+    "confirmed": {
+      "type": "boolean",
+      "default": false,
+      "configurable": false
+    },
+    "blocked": {
+      "type": "boolean",
+      "default": false,
+      "configurable": false
+    },
+    "role": {
+      "model": "role",
+      "via": "users",
+      "plugin": "users-permissions",
+      "configurable": false
+    },
+    "phone": {
+      "unique": true,
+      "type": "string"
+    },
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
+    },
+    "avatar": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "date_of_birth": {
+      "type": "date"
+    },
+    "gender": {
+      "default": "male",
+      "enum": [
+        "male",
+        "female"
+      ],
+      "type": "enumeration"
+    },
+    "address": {
+      "type": "string"
+    },
+    "firebase_token": {
+      "type": "string"
+    },
+    "emailConfirmed": {
+      "type": "boolean"
+    },
+    "emailservices": {
+      "collection": "emailservice",
+      "via": "users"
+    },
+    "uid": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "vendor",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "code": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "delivery_time": {
+      "type": "string"
+    },
+    "country": {
+      "model": "country"
+    },
+    "name": {
+      "required": true,
+      "type": "string"
+    },
+    "location": {
+      "model": "location"
+    },
+    "description": {
+      "type": "text"
+    },
+    "website": {
+      "type": "string"
+    }
+  }
+}

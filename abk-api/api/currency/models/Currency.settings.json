@@ -1,0 +1,39 @@
+{
+  "connection": "default",
+  "collectionName": "currency",
+  "info": {
+    "name": "currency",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "symbol": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "name": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "exchange_rate": {
+      "type": "integer",
+      "default": "1",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "code": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    }
+  }
+}

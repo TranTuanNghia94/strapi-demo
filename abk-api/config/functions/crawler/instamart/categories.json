@@ -1,0 +1,650 @@
+[
+    {
+        "url": "https://instamart.ru/azbukavkusa/ovoshchi-i-frukty/ovoshchi?sid=112",
+        "path": "Vegetables and Fruits/Vegetables"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ovoshchi-i-frukty/zielien-salaty-smiesi?sid=112",
+        "path": "Vegetables and Fruits/Greens and Salads"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ovoshchi-i-frukty/frukty?sid=112",
+        "path": "Vegetables and Fruits/Fruits"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ovoshchi-i-frukty/iaghody?sid=112",
+        "path": "Vegetables and Fruits/Berries"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ovoshchi-i-frukty/griby?sid=112",
+        "path": "Vegetables and Fruits/Mushrooms"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kulinariia-polufabrikaty/polufabrikaty-okhlazhdiennyie",
+        "path": "Cooking, Ready-to-Cook Food/Ready-to-Cook Chill Food"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kulinariia-polufabrikaty/polufabrikaty-zamorozhiennnyie",
+        "path": "Cooking, Ready-to-Cook Food/Ready-to-Cook Frozen Food"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/gazirovannyie-napitki",
+        "path": "Beverages/Sparkling Beverages"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/voda-pitievaia-i-minieralnaia",
+        "path": "Beverages/Mineral Water"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/soki-niektary-morsy",
+        "path": "Beverages/Juices"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/chai-kholodnyi",
+        "path": "Beverages/Ice Tea"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/enierghietichieskiie-napitki",
+        "path": "Beverages/Energetic Drinks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/kvas",
+        "path": "Beverages/Kvas"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/biezalkogholnoie-pivo",
+        "path": "Beverages/Nonalcoholic Beer"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/voda-soki-napitki/biezalkogholnoie-vino",
+        "path": "Beverages/Nonalcoholic Wine"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/molochnyie-produkty/slivki",
+        "path": "Dairy Products/Cream"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/molochnyie-produkty/tvorogh-i-tvorozhnaia-massa",
+        "path": "Dairy Products/Curds"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/molochnyie-produkty/smietana",
+        "path": "Dairy Products/Sour Cream"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/molochnyie-produkty/syrki-i-biskvity",
+        "path": "Dairy Products/Cheeses and Biscuits"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/molochnyie-produkty/sghushchiennoie-moloko",
+        "path": "Dairy Products/Condensed Milk"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/krupy",
+        "path": "Groceries/Cereals"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/gorokh-fasol-chiechievitsa",
+        "path": "Groceries/Peas, beans, lentils"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/makarony-pasta-viermishiel",
+        "path": "Groceries/Pasta"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/sakhar-i-zamienitieli",
+        "path": "Groceries/Sugar and Substitutes"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/sol",
+        "path": "Groceries/Salt"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/muka",
+        "path": "Groceries/Flour"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/rastitielnyie-masla",
+        "path": "Groceries/Vegetable Oil"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/sukhiie-zavtraki-i-miusli",
+        "path": "Groceries/Cereals and Granola"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/dlia-vypiechki-i-diesiertov",
+        "path": "Groceries/For Baking and Desserts"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/diabietichieskoie-pitaniie",
+        "path": "Groceries/Diabetic Nutrition"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/bakalieia/marinady-i-uksus",
+        "path": "Groceries/Marinades and Vinegar"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/mied-varienie-pasty",
+        "path": "Sweets/Honey, Jam and Spreads"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/siropy-i-toppinghi",
+        "path": "Sweets/Syrups and Toppings"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/konfiety-i-podarochnyie-nabory",
+        "path": "Sweets/Sweets and Gift Sets"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/shokolad",
+        "path": "Sweets/Chocolate"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/piechienie",
+        "path": "Sweets/Buscuits"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/prianiki",
+        "path": "Sweets/Gingerbread Cookies"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/vafli",
+        "path": "Sweets/Waffles"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/torty-piroghi-pirozhnyie",
+        "path": "Sweets/Cakes, Pies and Pastries"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/marmielad-ziefir-pastila",
+        "path": "Sweets/Marmalade, Marshmallows and Candies"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/khalva-kozinaki-pakhlava",
+        "path": "Sweets/Halva, Kozinak and Baklava"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sladosti/zhievatielnyie-riezinki-drazhie",
+        "path": "Sweets/Chewing gum"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/syry/tvierdyie-i-polutvierdyie-syry",
+        "path": "Cheese/Hard and Semi-Hard Cheese"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/syry/miaghkiie-syry",
+        "path": "Cheese/Sofr Cheese"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/syry/rassolnyie-syry",
+        "path": "Cheese/Pickled Cheese"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/syry/tvorozhnyie-syry",
+        "path": "Cheese/Curd Cheese"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/syry/plavlienyie-syry",
+        "path": "Cheese/Processed Cheese"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kolbasy-sosiski-dielikatiesy/kolbasy",
+        "path": "Salamis and Salamis/Salamis"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kolbasy-sosiski-dielikatiesy/miasnyie-dielikatiesy",
+        "path": "Salamis and Salamis/Deli Meats"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kolbasy-sosiski-dielikatiesy/sosiski-i-sardielki",
+        "path": "Salamis and Salamis/Sausages"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kolbasy-sosiski-dielikatiesy/pashtiety-i-zielts",
+        "path": "Salamis and Salamis/Pate"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/khlieb-i-vypiechka/khlieb-tosty-lavash",
+        "path": "Bread and Baking/Bread, Toasts and Pita Bread"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/khlieb-i-vypiechka/bulochki-piroghi-sladkaia-vypiechka",
+        "path": "Bread and Baking/Buns, Pies and Pastries"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/khlieb-i-vypiechka/khliebtsy",
+        "path": "Bread and Baking/Bread Rolls"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/khlieb-i-vypiechka/baranki-sukhari-tartalietki",
+        "path": "Bread and Baking/Bagels, Crackers and Tartlets"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sukhofrukty-oriekhi-siemiechki/oriekhi",
+        "path": "Dried Fruits, Nuts and Seeds/Nuts"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sukhofrukty-oriekhi-siemiechki/sukhofrukty",
+        "path": "Dried Fruits, Nuts and Seeds/Dried Fruits"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sukhofrukty-oriekhi-siemiechki/siemiechki",
+        "path": "Dried Fruits, Nuts and Seeds/Sunflower Seeds"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sukhofrukty-oriekhi-siemiechki/fruktovo-oriekhovyie-smiesi",
+        "path": "Dried Fruits, Nuts and Seeds/Fruit and Nut Mixes"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ryba-i-morieprodukty/ikra",
+        "path": "Fish and Seafood/Caviar"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ryba-i-morieprodukty/kopchienaia-ryba",
+        "path": "Fish and Seafood/Smoked Fish"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ryba-i-morieprodukty/vialienaia-i-sushienaia-ryba",
+        "path": "Fish and Seafood/Dried fish"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/ryba-i-morieprodukty/krabovyie-palochki-i-miaso",
+        "path": "Fish and Seafood/Crabsticks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/gotovyie-bliuda-i-polufabrikaty/ieda-bystrogho-prighotovlieniia",
+        "path": "Ready Meals and Ready-to-Cook Food/Instant Food"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/gotovyie-bliuda-i-polufabrikaty/pielmieni-i-varieniki",
+        "path": "Ready Meals and Ready-to-Cook Food/Dumplings"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/chipsy",
+        "path": "Snacks/Chips"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/sukhariki",
+        "path": "Snacks/Russian Crackers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/grienki",
+        "path": "Snacks/Toasts"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/popkorn",
+        "path": "Snacks/Popcorn"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/kriekiery",
+        "path": "Snacks/Crackers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/bieikitsy",
+        "path": "Snacks/Bakewits"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/palochki",
+        "path": "Snacks/Finger Chips"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/snieki",
+        "path": "Snacks/Snacks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chipsy-i-snieki/syr",
+        "path": "Snacks/Cheese Snacks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/konsiervy-i-solienia/miasnyie-konsiervy",
+        "path": "Canned Food/Canned Meat"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/konsiervy-i-solienia/rybnyie-konsiervy",
+        "path": "Canned Food/Canned Fish"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/konsiervy-i-solienia/konsiervirovannyie-ovoshchi",
+        "path": "Canned Food/Canned Vegetables "
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/konsiervy-i-solienia/olivki-masliny-kapiersy",
+        "path": "Canned Food/Olives and Capers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/konsiervy-i-solienia/gribnyie-solienia",
+        "path": "Canned Food/Mushroom Pickles"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/konsiervy-i-solienia/konsiervirovannyie-frukty-i-iaghody",
+        "path": "Canned Food/Canned Fruits and Berries"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chai-i-kofie/chai",
+        "path": "Tea and Coffee/Tea"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chai-i-kofie/kofie",
+        "path": "Tea and Coffee/Coffee"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chai-i-kofie/kakao",
+        "path": "Tea and Coffee/Cacao"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/chai-i-kofie/tsikorii",
+        "path": "Tea and Coffee/Chicory"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sousy-spietsii-pripravy/gorchitsa-i-khrien",
+        "path": "Sauces, Spices and Seasonings/Mustard and Horseradish"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sousy-spietsii-pripravy/maioniez",
+        "path": "Sauces, Spices and Seasonings/Mayonnaise"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sousy-spietsii-pripravy/tomatnaia-pasta-i-piurie",
+        "path": "Sauces, Spices and Seasonings/Tomato Paste"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sousy-spietsii-pripravy/pripravy",
+        "path": "Sauces, Spices and Seasonings/Seasonings"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sousy-spietsii-pripravy/sousy",
+        "path": "Sauces, Spices and Seasonings/Souces"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/sousy-spietsii-pripravy/kietchup",
+        "path": "Sauces, Spices and Seasonings/Ketchup"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-litsa/sriedstva-dlia-umyvaniia",
+        "path": "Cosmetics & Hygiene/Face Products/Cleansers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-litsa/skraby-pilinghi-maski",
+        "path": "Cosmetics & Hygiene/Face Products/Scrubs, Peels and Masks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-litsa/losony-i-toniki",
+        "path": "Cosmetics & Hygiene/Face Products/Lotions and Tonics"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-litsa/kriemy-dlia-litsa",
+        "path": "Cosmetics & Hygiene/Face Products/Face Creams"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-litsa/sriedstva-dlia-ghub",
+        "path": "Cosmetics & Hygiene/Face Products/Lip Products"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-volos/maski-i-ukhodovyie-sriedstva-dlia-volos",
+        "path": "Cosmetics & Hygiene/Hair Products/Masks and Hair Care"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-volos/sriedstva-dlia-ukladki-volos",
+        "path": "Cosmetics & Hygiene/Hair Products/Hair Styling"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-volos/shampuni",
+        "path": "Cosmetics & Hygiene/Hair Products/Shampoo"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-volos/balzamy-i-konditsioniery",
+        "path": "Cosmetics & Hygiene/Hair Products/Hair Balms and Conditioners"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-tiela/gieli-dlia-dusha",
+        "path": "Cosmetics & Hygiene/Body Products/Shower Gels"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-tiela/skraby-i-pilinghi-dlia-tiela",
+        "path": "Cosmetics & Hygiene/Body Products/Body Scrubs and Peels for Body"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-tiela/kriemy-losony-i-molochko-dlia-tiela",
+        "path": "Cosmetics & Hygiene/Body Products/Creams, Lotions and Body Milk"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-tiela/diezodoranty",
+        "path": "Cosmetics & Hygiene/Body Products/Deodorants"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-tiela/piena-i-sol-dlia-vann",
+        "path": "Cosmetics & Hygiene/Body Products/Foam and Bath Salt"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-ruk-nogh-i-noghtiei/prinadliezhnosti-dlia-manikiura-i-piedikiura",
+        "path": "Cosmetics & Hygiene/Hand, Foot and Nail Products/Accessories for Manicure and Pedicure"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-ruk-nogh-i-noghtiei/kriemy-dlia-ruk-i-noghtiei",
+        "path": "Cosmetics & Hygiene/Hand, Foot and Nail Products/Creams for Hands and Nails"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-ruk-nogh-i-noghtiei/kriemy-dlia-nogh",
+        "path": "Cosmetics & Hygiene/Hand, Foot and Nail Products/Foot Creams"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-polosti-rta/zubnyie-pasty",
+        "path": "Cosmetics & Hygiene/Oral products/Toothpastes"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-polosti-rta/zubnyie-shchietki-i-niti",
+        "path": "Cosmetics & Hygiene/Oral products/Toothbrushes and Floss"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-polosti-rta/opolaskivatieli",
+        "path": "Cosmetics & Hygiene/Oral products/Rinse Aid"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-britia-i-diepiliatsii/gieli-i-pieny-dlia-britia",
+        "path": "Cosmetics & Hygiene/Shaving and Hair Removal Products/Shaving Gels and Foams"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-britia-i-diepiliatsii/sriedstva-poslie-britia",
+        "path": "Cosmetics & Hygiene/Shaving and Hair Removal Products/After Shave"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-britia-i-diepiliatsii/muzhskiie-britvy",
+        "path": "Cosmetics & Hygiene/Shaving and Hair Removal Products/Men's razors"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-britia-i-diepiliatsii/zhienskiie-britvy",
+        "path": "Cosmetics & Hygiene/Shaving and Hair Removal Products/Women's razors"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/sriedstva-dlia-britia-i-diepiliatsii/sriedstva-dlia-diepiliatsii",
+        "path": "Cosmetics & Hygiene/Shaving and Hair Removal Products/Depilatories"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/intimnaia-ghighiiena/zhienskiie-prokladki-i-tampony",
+        "path": "Cosmetics & Hygiene/Intimate Hygiene/Women's Pads and Tampons"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/intimnaia-ghighiiena/prieziervativy-lubrikanty-tiesty",
+        "path": "Cosmetics & Hygiene/Intimate Hygiene/Condoms and Lubricants,"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/intimnaia-ghighiiena/sriedstva-dlia-intimnoi-ghighiieny",
+        "path": "Cosmetics & Hygiene/Intimate Hygiene/Intimate Hygiene Products"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/vatno-bumazhnaia-produktsiia/bumazhnyie-platki-i-salfietki",
+        "path": "Cosmetics & Hygiene/Wadded Paper Products/Paper Scarves and Napkins"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/vatno-bumazhnaia-produktsiia/vatnyie-diski-i-palochki",
+        "path": "Cosmetics & Hygiene/Wadded Paper Products/Cotton Pads and Sticks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/vatno-bumazhnaia-produktsiia/vlazhnyie-salfietki",
+        "path": "Cosmetics & Hygiene/Wadded Paper Products/Wet wipes"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/kosmietichieskiie-nabory",
+        "path": "Cosmetics & Hygiene/Cosmetic sets"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/mylo/tualietnoie-mylo",
+        "path": "Cosmetics & Hygiene/Soap/Toilet Soap"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/kosmietika-i-ghighiiena/mylo/dietskoie-mylo",
+        "path": "Cosmetics & Hygiene/Soap/Baby Soap"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/kashi",
+        "path": "Children's Products/Baby Food/Porridge"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/piurie",
+        "path": "Children's Products/Baby Food/Purée"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/dietskiie-molochnyie-produkty",
+        "path": "Children's Products/Baby Food/Baby Dairy Products"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/sukhiie-zavtraki-i-piechienie",
+        "path": "Children's Products/Baby Food/Breakfast Cereals and Cookies"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/soki-i-napitki",
+        "path": "Children's Products/Baby Food/Juices and Drinks"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/zamienitieli-moloka-i-smiesi",
+        "path": "Children's Products/Baby Food/Milk Substitutes and Mixtures"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/dietskaia-voda",
+        "path": "Children's Products/Baby Food/Baby Water"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/dietskoie-pitaniie/dietskaia-bakalieia",
+        "path": "Children's Products/Baby Food/Children's Grocery"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/zubnaia-pasta-dietskaia",
+        "path": "Children's Products/Daily Care/Children's Toothpaste"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/zubnyie-shchietki-dietskiie",
+        "path": "Children's Products/Daily Care/Children's Toothbrushes"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/shampuni-i-ghieli",
+        "path": "Children's Products/Daily Care/Shampoos and Gels"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/kriema-masla-i-losony",
+        "path": "Children's Products/Daily Care/Creams, Oils and Lotions"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/podghuzniki-i-trusiki",
+        "path": "Children's Products/Daily Care/Diapers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/pielienki",
+        "path": "Children's Products/Daily Care/Other Diapers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dietskiie-tovary/iezhiednievnyi-ukhod/salfietki-ochishchaiushchiie",
+        "path": "Children's Products/Daily Care/Cleaning Wipes"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/stiralnyie-poroshki",
+        "path": "Household Products/Household Cleaning Products/Washing Powders"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/zhidkiie-sriedstva-dlia-stirki",
+        "path": "Household Products/Household Cleaning Products/Liquid Laundry Detergents"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/kapsuly-i-tablietki-dlia-stirki",
+        "path": "Household Products/Household Cleaning Products/Capsules and Laundry Pills"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/konditsioniery-i-opolaskivatieli-dlia-bielia",
+        "path": "Household Products/Household Cleaning Products/Air Conditioners and Fabric Dofteners"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/otbielivatieli-i-piatnovyvoditieli",
+        "path": "Household Products/Household Cleaning Products/Bleach and Dtain Removers"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-po-ukhodu-za-bieliem",
+        "path": "Household Products/Household Cleaning Products/Laundry Care"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-mytia-polov",
+        "path": "Household Products/Household Cleaning Products/Floor Cleaners"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-mytia-stiekol",
+        "path": "Household Products/Household Cleaning Products/Glass Cleaners"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-kukhni",
+        "path": "Household Products/Household Cleaning Products/Kitchen Tools"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-santiekhniki",
+        "path": "Household Products/Household Cleaning Products/Tools for plumbing"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-bytovoi-tiekhniki",
+        "path": "Household Products/Household Cleaning Products/Tools for Household Appliances"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-prochistki-trub",
+        "path": "Household Products/Household Cleaning Products/Pipe Cleaners"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/univiersalnyie-sriedstva",
+        "path": "Household Products/Household Cleaning Products/Universal Cleanining Products"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-posudomoiechnykh-mashin",
+        "path": "Household Products/Household Cleaning Products/Dishwasher Tools"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-doma-i-dachi/bytovaia-khimiia/sriedstva-dlia-mytia-posudy",
+        "path": "Household Products/Household Cleaning Products/Dishwashing Detergents"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-zhivotnykh/korma-i-lakomstva/korm-dlia-koshiek",
+        "path": "Products for Animals/Food and Treats/Cat Food"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-zhivotnykh/korma-i-lakomstva/korm-dlia-sobak",
+        "path": "Products for Animals/Food and Treats/Dog Food"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/dlia-zhivotnykh/napolnitiel/napolnitieli-dlia-koshiek",
+        "path": "Products for Animals/Fillers/For Cat Litter"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/knighi-i-zhurnaly/dietskaia-litieratura",
+        "path": "Books and Magazines/Children's Literature"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/knighi-i-zhurnaly/krasota-zdorovie-i-sport",
+        "path": "Books and Magazines/Beauty, Health and Sport"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/knighi-i-zhurnaly/psikhologhiia-i-samorazvitiie",
+        "path": "Books and Magazines/Psychology and Self-Development"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/knighi-i-zhurnaly/dom-khobbi-dosugh",
+        "path": "Books and Magazines/Home, Hobby and Leisure"
+    },
+    {
+        "url": "https://instamart.ru/azbukavkusa/knighi-i-zhurnaly/biznies-litieratura",
+        "path": "Books and Magazines/Business Literature"
+    }
+]

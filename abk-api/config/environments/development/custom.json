@@ -1,0 +1,4 @@
+{
+  "myCustomConfiguration": "This configuration is accessible through strapi.config.environments.development.myCustomConfiguration",
+  "telegramWebHook": "https://integram.org/webhook/csc2zeV5cDS"
+}

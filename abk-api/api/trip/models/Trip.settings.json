@@ -1,0 +1,59 @@
+{
+  "connection": "default",
+  "collectionName": "trip",
+  "info": {
+    "name": "trip",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "code": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "name": {
+      "required": true,
+      "type": "string"
+    },
+    "from": {
+      "model": "airport"
+    },
+    "to": {
+      "model": "airport"
+    },
+    "date": {
+      "required": true,
+      "type": "date",
+      "unique": true
+    },
+    "user": {
+      "model": "user",
+      "plugin": "users-permissions"
+    },
+    "description": {
+      "type": "text"
+    },
+    "airline": {
+      "type": "string"
+    },
+    "modified_by": {
+      "type": "string"
+    },
+    "disabled": {
+      "type": "boolean"
+    },
+    "status_history": {
+      "type": "json"
+    },
+    "tasks": {
+      "collection": "task",
+      "via": "trip"
+    }
+  }
+}

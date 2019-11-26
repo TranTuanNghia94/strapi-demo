@@ -1,0 +1,68 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/tasks/traveler",
+      "handler": "Task.findByTraveler",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/tasks",
+      "handler": "Task.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/tasks/count",
+      "handler": "Task.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/tasks/:_id",
+      "handler": "Task.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/tasks/traveler/:_id",
+      "handler": "Task.findOneByTraveler",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/tasks",
+      "handler": "Task.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/tasks/:_id",
+      "handler": "Task.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/tasks/:_id",
+      "handler": "Task.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "connection": "default",
+  "collectionName": "Product Type",
+  "info": {
+    "name": "producttype",
+    "description": ""
+  },
+  "options": {
+    "timestamps": [
+      "createdAt",
+      "updatedAt"
+    ]
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "code": {
+      "unique": true,
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

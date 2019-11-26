@@ -1,0 +1,27 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "country",
+    "description": "List of countries"
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "code": {
+      "unique": true,
+      "required": true,
+      "type": "string"
+    },
+    "phone_code": {
+      "minLength": 2,
+      "type": "string"
+    }
+  }
+}
